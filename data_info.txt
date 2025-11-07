@@ -1,0 +1,19 @@
+Diabetes:
+  Symptoms: frequent urination, excessive thirst, fatigue, blurred vision
+  Causes: insulin resistance, genetics, obesity
+  Treatments: insulin, exercise, balanced diet
+
+Heart Disease:
+  Symptoms: chest pain, shortness of breath, fatigue
+  Causes: high blood pressure, smoking, high cholesterol
+  Treatments: medication, surgery, healthy lifestyle
+
+Fever:
+  Symptoms: high temperature, headache, chills
+  Causes: infection, flu, bacterial illness
+  Treatments: rest, hydration, paracetamol
+
+COVID-19:
+  Symptoms: cough, fever, loss of taste/smell
+  Causes: coronavirus infection
+  Treatments: rest, fluids, antivirals
